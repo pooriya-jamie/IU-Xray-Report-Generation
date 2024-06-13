@@ -1,7 +1,7 @@
-# IU-Xray-Report-Generation
+# IU Xray Report Generation
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
 
 ## Overview
 
@@ -28,6 +28,8 @@ IU-Xray-Report-Generation is a project aimed at generating medical reports from 
 ## Dataset
 
 The IU X-ray dataset consists of chest X-ray images and corresponding medical reports. Ensure you have the necessary permissions to use the dataset and comply with its terms of use.
+You can download the dataset from [here](https://drive.google.com/file/d/1DS6NYirOXQf8qYieSVMvqNwuOlgAbM_E/view?usp=sharing) and then put the files in data/iu_xray.
+
 
 ## Model Architecture
 
